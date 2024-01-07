@@ -46,4 +46,4 @@ Feel free to contribute by opening issues or submitting pull requests. Your feed
 
 ---
 
-*This project is developed by [Your Name]. For more details, please visit the [GitHub repository](git@github.com:Sakib-Dalal/Coffee-Machine-Using-OOP.git).*
+*This project is developed by Sakib Dalal. For more details, please visit the [GitHub repository](git@github.com:Sakib-Dalal/Coffee-Machine-Using-OOP.git).*
